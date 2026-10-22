@@ -1,3 +1,0 @@
-api-url: "https://skygenisus.netlify.app/"
-server-id: "main"
-secret: "EOE1.eyJ2IjoxLCJhbGciOiJBMjU2R0NNIiwia2RmIjoiUEJLREYyIiwiaGFzaCI6IlNIQS0yNTYiLCJpdGVyIjo2MDAwMDAsInNhbHQiOiJLam5JeVZiRThHYmpYQUhPZHhqUHJRIiwiaXYiOiIzbmJlNmFJamNzS05qbHU4IiwidGFnIjoxMjgsImVuYyI6IlVURi04IiwiY3QiOiJSYjA1NEFjTDBaQjl6bWdFMk5PNXZGSUdjdlJBRWhOaFMtMEFlcEhzb1FTWHZhczFRRHlHWjBLODJvLWZ4Y0t5NlhWeCJ9"          # same value as PLUGIN_SECRET in Netlify. Never share or log it.
