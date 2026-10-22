@@ -1,8 +1,8 @@
 [build]
-  base = "site"
   command = "npm run build"
   publish = "dist"
-  functions = "../netlify/functions"
+  functions = "netlify/functions"
+
 [[redirects]]
   from = "/api/plugin/v1/*"
   to = "/.netlify/functions/plugin"
