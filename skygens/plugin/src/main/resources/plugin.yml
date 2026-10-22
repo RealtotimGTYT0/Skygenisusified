@@ -1,8 +1,0 @@
-name: SkyGens
-version: ${project.version}
-main: gg.skygens.SkyGens
-api-version: '1.21'
-commands:
-  skygens:
-    description: SkyGens website integration
-    usage: /skygens link <code>
